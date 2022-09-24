@@ -1,4 +1,4 @@
-![](./img/social-preview.png)
+![](/profile/img/social-preview.png)
 
 <div align="center">
   <h1>Isekai system</h1>
